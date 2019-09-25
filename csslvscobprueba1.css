@@ -1,0 +1,32 @@
+.wrapperV2 .topNavBar {background: #020e0e; border-top: 0;}
+#topBar .logo {display: none;}
+#topBar dd.active a {color: #5a7182; border-bottom: 0;}
+#topBar .topNavSpecBt {display: none;}
+.yellowDarkTd {background: #6ba2a2;}
+#topBar dd a {color: #b4bfc3; border-bottom: 0;}
+.vEn .main {background: #b3b2b2;}
+#data_table tbody tr {background: #ced4da;}
+table.live-list-table tbody tr td {border-color: #dcd4d4; padding: 10px 4px 8px 4px;}
+.yellowTd {display: none;}
+.pinkGreenTD {display: none;}
+.pinkRedTD {display: none;}
+.red-color {color: #020000!important;}
+.blue-color {color: #5a6775!important;}
+#data_table > thead > tr > th:nth-child(7) {display: none;}
+#data_table > thead > tr > th:nth-child(8) {display: none;}
+#data_table > thead > tr > th:nth-child(9) {display: none;}
+#data_table > thead > tr > th:nth-child(11) {display: none;}
+#data_table > thead > tr > th:nth-child(12) {display: none;}
+#data_table > thead > tr > th:nth-child(13) {display: none;}
+table.MBMini > thead > tr > th:nth-child(7) {display: none;}
+table.MBMini > thead > tr > th:nth-child(8) {display: none;}
+table.MBMini > thead > tr > th:nth-child(9) {display: none;}
+table.MBMini > thead > tr > th:nth-child(11) {display: none;}
+table.MBMini > thead > tr > th:nth-child(12) {display: none;}
+table.MBMini > thead > tr > th:nth-child(13) {display: none;}
+.pageFixedBar2 {display: none;}
+#data_table td[team_id] a[onclick*="Popup"] {color: #172029!important; font-weight: 600;}
+#data_table td:not([class^="bg"] {background: #f3f5f7;}
+.MBBlock {display: none;}
+#data_table_tip {display: none;}
+.main-footer {display: none;}
